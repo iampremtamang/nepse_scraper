@@ -1,4 +1,4 @@
 # nepse_scraper
 NEPSE scraper to display the data in managed and useful way
 
-#### Just for learning purposes
+#### Just for learning purpose
